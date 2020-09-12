@@ -12,6 +12,6 @@
     "body-parser": "^1.19.0",
     "coders-logger": "^1.0.4",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
